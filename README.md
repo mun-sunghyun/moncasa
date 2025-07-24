@@ -13,3 +13,5 @@
 - 피그마 주소 : https://www.figma.com/design/Yx2x0UAYIOdwlahTP7JOyw/MONCASA?node-id=123-37&m=dev&t=4aQDGX47mkWLc4KC-1
 
 - 깃 페이지 주소 : https://mun-sunghyun.github.io/moncasa/
+
+- 피그마 레이아웃 : <img src="./img/KakaoTalk_20250724_174607632.png" width="250px" height="250px">
