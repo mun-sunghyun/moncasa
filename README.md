@@ -9,5 +9,7 @@
 개발:성현
 
 <img width="1199" height="747" alt="캡처" src="https://github.com/user-attachments/assets/6e386291-5441-4ac8-9ecf-9e19c954ca7f" />
-피그마 주소 : https://www.figma.com/design/Yx2x0UAYIOdwlahTP7JOyw/MONCASA?node-id=123-37&m=dev&t=4aQDGX47mkWLc4KC-1
-깃 페이지 주소 : https://mun-sunghyun.github.io/moncasa/
+
+- 피그마 주소 : https://www.figma.com/design/Yx2x0UAYIOdwlahTP7JOyw/MONCASA?node-id=123-37&m=dev&t=4aQDGX47mkWLc4KC-1
+
+- 깃 페이지 주소 : https://mun-sunghyun.github.io/moncasa/
